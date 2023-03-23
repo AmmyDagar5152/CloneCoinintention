@@ -1,0 +1,233 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300&display=swap');
+
+#header{
+   width: 1500px; 
+   height: 80px;
+   left: 0px;
+   top: 0px;
+   position: absolute;
+    background-color: #100e2e;
+   
+}
+#header ul{
+    display: flex;
+    top: 37px;
+    position: absolute;
+    left: 500px;
+    list-style: none;
+    text-align: center;
+    
+}
+#header ul li{
+    margin: 10px;
+  text-align: center;
+   
+}
+#header ul li a{
+    color: white;
+    text-align: center;
+   padding: 20px;
+   text-decoration:none ;
+    top: -18px;
+    position: relative;
+    font-family: 'Chakra Petch', sans-serif;
+   
+}
+
+#header a img{
+    position: absolute;
+    display: flex;
+    left: 1215px;
+    top: 32px;
+}
+
+/* container section */
+#container{
+    position: absolute;
+    top: 80px;
+    left: 0px;
+    width: 1500px;
+    height: 670px;
+    background-color:#09053a ;
+    
+}
+#container h3{
+    font-family: 'Chakra Petch', sans-serif;
+    margin-left: 90px;
+   display: block;
+    top: 35px;
+    position: relative;
+    color: white;
+
+}
+#container p{
+    font-family: 'Chakra Petch', sans-serif;
+    margin-left: 90px;
+    display: block;
+    top: 27px;
+    position: relative;
+    color: white;
+
+}
+/* #container div{
+    position: absolute;
+    top: 70%;
+    left: 60%;
+} */
+#container div p{
+    padding-top: 10px;
+}
+
+
+#thead tr td img{
+    position: absolute;
+    height: 25px;
+    border: 0px;
+    border-radius: 25px;
+    width: 25px;
+    left: -3px;
+}
+#table{
+position: absolute;
+top: 145px;
+left: 90px;
+display: block;
+width: 1300px;
+}
+#thead tr td{
+    font-family: 'Chakra Petch', sans-serif;
+
+}
+
+/* #section{
+    
+    background-image: url('.imgs/earth.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+#sectionn{
+    position: absolute;
+    height: 420px;
+    width: 1500px;
+    top: 218%;
+    background-color: #100e2e;
+    display: flex;
+}
+#sectionn h3{
+    color: white;
+    font-family: 'Chakra Petch', sans-serif;
+    left: 80px;
+    top: 60px;
+    position: absolute;
+    
+}
+#sectionn ul li{
+    position: absolute;
+    top: 160px;
+    left: 100px;
+    /* list-style: none; */
+    color: white;
+    font-family: 'Chakra Petch', sans-serif;
+
+}
+#sectionn ul p{
+    position: absolute;
+    top: 190px;
+    left: 100px;
+    /* list-style: none; */
+    color: white;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 12px;
+}
+
+#graph{
+    left: 60%;
+    display: block;
+    position: absolute;
+    width: 50px;
+    
+}
+#graph h3{
+    width: 310px;
+}
+#graph ul li{
+    list-style: none;
+    
+   
+}
+#graph ul li h6{
+    position: absolute;
+    left: 50px;
+}
+#graph ul li span{
+    position: absolute;
+    left: 50px;
+    color: grey;
+    top: 20px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#graph ul li img{
+    position: absolute;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+}
+#graph ul li h5{
+    position: absolute;
+    left: 180px;
+}
+
+/* footer section */
+#footer{
+    background-color: #09053a;
+    position: absolute;
+    height: 420px;
+    width: 1500px;
+    top: 420px;
+    display: flex;
+}
+#footer img{
+    top: 80px;
+    position: absolute;
+    height:50px ;
+    width: 200px;
+    left: 100px;
+    border-radius: 25px;
+    
+}
+ #footer p{
+    position: absolute;
+    top: 150px;
+    left: 100px;
+    color: white;
+    /* font-weight: bold; */
+    font-family: 'Chakra Petch', sans-serif;
+
+ }
+#footer h3{
+    position: absolute;
+    left: 700px;
+    color: white;
+    top: 80px;
+}
+#footer h3 span{
+    font-size: 13px;
+}
+#footer #supp{
+    position: absolute;
+    left: 900px;
+    color: white;
+    top: 80px;
+}
+#footer #socials{
+    position: absolute;
+    left: 1100px;
+    color: white;
+    top: 80px;
+}
+
+
